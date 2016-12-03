@@ -38,3 +38,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ## Appendices
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+=======
+dbProj - Simon Aizpurua README.md
+>>>>>>> 16fe3941e34fc765a199af54d40301f83fe0793e
