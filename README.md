@@ -20,4 +20,13 @@
 | entry | lorem ipsum|
 
 #### Use Case Descriptions
+
+| Use Case | Description |
+|:--------|:-------:|
+| entry | lorem ipsum|
+
 #### Class Descriptions
+
+| Class | Attributes/Relationship |
+|:--------|:-------:|
+| entry | lorem ipsum|
