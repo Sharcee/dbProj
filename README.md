@@ -5,7 +5,8 @@ This document is the software specification report for Yucked. Yucked aims to pr
 The need for the system is to ensure that students are informed as possible. Currently, users do not have a way to rate businesses and be alerted when businesses have limited-time promotions all on a social platform. The software will automate a method to ping businesses with promotional updates and present the users with the information obtained.
 #### Definitions, Acronyms, and Abbreviations
 System Administrator
-  : Responsible for maintaining the software, database, network, and configuration of the backend. Has permission to access all parts of the system for testing Purposes
+: Responsible for maintaining the software, database, network, and configuration of the backend.
+: Has permission to access all parts of the system for testing purposes.
 #### References to Supporting Documents
 #### Overview of rest of SRS
 ## General Description
