@@ -61,8 +61,8 @@ DESC: A user who has defined a business as their favorite place will be allowed 
 RAT: App functionality  
 DEP: FR1 FR4
 
-
 ## Non-Functional Requirements
+The system will provide accurate data derived from business listings. The system will provide a private, secure environment to guarantee the confidentiality of user data, including information on promotions and businesses. The system must have a reliable connection from user to server and server to database as all user interactions are dealt on the server side. Lastly, the system will provide a modern user interface with a minimalistic design and free of unnecessary features.
 ## Appendices
 #### Actor Descriptions
 
