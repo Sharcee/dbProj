@@ -1,5 +1,7 @@
 from app import db_app
-@db_app.route('/')	# Home Route
+from flask import render_template
+
+@db_app.route('/')		# Home Route
 @db_app.route('/index')	# Index
 def index():
-	return "Welcome to db_proj!"
+	return render_template('index.html')
