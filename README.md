@@ -30,44 +30,36 @@ A first-time user of Yucked will encounter a landing page when the method of dis
 A regular user will encounter a method on the landing page to log on and access their profile on the system. Every user should have an account on the system where they can edit their personal profile, as well as exam dates, and depending on if they are an administrator, test and develop on the system.
 
 ###### ID: FR1
-
-TITLE: User Registration - Landing Page
-
-DESC: A user on the landing page should be able to access a method to register a new account.
-
-RAT: In order to register new users to the system
-
-DEP: None
+###### TITLE: User Registration - Landing Page
+###### DESC: A user on the landing page should be able to access a method to register a new account.
+###### RAT: In order to register new users to the system
+###### DEP: None
 
 
 ###### ID: FR2
-
-TITLE: Retrieve Username
-
-DESC: A user who has registered should be able to recover their username via e-mail in case they forgot their credentials.
-
-RAT: User Support
-
-DEP: FR1
+###### TITLE: Retrieve Username
+###### DESC: A user who has registered should be able to recover their username via e-mail in case they forgot their credentials.
+###### RAT: User Support
+###### DEP: FR1
 
 
 ###### ID: FR3
-TITLE: Retrieve Password
-DESC: A user who has registered should be able to recover their username via e-mail in case they forgot their credentials.
-RAT: User Support
-DEP: FR1
+###### TITLE: Retrieve Password
+###### DESC: A user who has registered should be able to recover their username via e-mail in case they forgot their credentials.
+###### RAT: User Support
+###### DEP: FR1
 
 ###### ID: FR4
-TITLE: Search
-DESC: A user who has registered should be able to use the app and search for events and businesses.
-RAT: App functionality
-DEP: FR1
+###### TITLE: Search
+###### DESC: A user who has registered should be able to use the app and search for events and businesses.
+###### RAT: App functionality
+###### DEP: FR1
 
 ###### ID: FR5
-TITLE: Retrieve favorite place
-DESC: A user who has defined a business as their favorite place will be allowed to call a getter function that will return their favorite place.
-RAT: App functionality
-DEP: FR1 FR4
+###### TITLE: Retrieve favorite place
+###### DESC: A user who has defined a business as their favorite place will be allowed to call a getter function that will return their favorite place.
+###### RAT: App functionality
+###### DEP: FR1 FR4
 
 
 ## Non-Functional Requirements
