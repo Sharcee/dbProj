@@ -29,7 +29,7 @@ A first-time user of Yucked will encounter a landing page when the method of dis
 
 A regular user will encounter a method on the landing page to log on and access their profile on the system. Every user should have an account on the system where they can edit their personal profile, as well as exam dates, and depending on if they are an administrator, test and develop on the system.
 
-ID: FR1\\
+ID: FR1
 TITLE: User Registration - Landing Page
 DESC: A user on the landing page should be able to access a method to register a new account.
 RAT: In order to register new users to the system
