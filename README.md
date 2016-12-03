@@ -1,6 +1,8 @@
 ## Introduction
 #### Purpose
-The purpose of this document is to provide the software requirement specification report for the Student Campus Online Test and Evaluation Reservation System (SCOTERS). The system aims to provide a secure testing environment for a variety of examinations, and serves FSU courses whose classroom environments are not conductive to good testing conditions. The system is intended to serve the needs of students from FSU and the surrounding community.
+
+This document is the software specification report for Yucked. Yucked aims to provide a platform to serve users whose social environments are not conductive to good social experiences. We aim to provide users a means to look up businesses and inform them of local events and promotions in the city. The system is intended to serve the needs of students from FSU and the surrounding community.
+
 #### Scope of the System Specified
 #### Definitions, Acronyms, and Abbreviations
 #### References to Supporting Documents
